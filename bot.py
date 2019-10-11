@@ -3,7 +3,7 @@ import time
 '''import requests
 from time import sleep
 
-token = '988313821:AAEjdtUQK5Z_mUvZgp1W0xnKWpOliIWL6N4'
+token = '885760516:AAEjQvzf89OlPlwv6bzQ_T8IUNYTMcRnlHk'
 url = "https://api.telegram.org/bot{token}/"
 
 
@@ -42,7 +42,7 @@ if __name__ == '__main__':
     main()'''
 from telebot import types
 
-bot = telebot.TeleBot('988313821:AAEjdtUQK5Z_mUvZgp1W0xnKWpOliIWL6N4')
+bot = telebot.TeleBot('885760516:AAEjQvzf89OlPlwv6bzQ_T8IUNYTMcRnlHk')
 
 emoji_house = u'\U0001F3E0'
 emoji_shop = u'\U0001F6CD'
